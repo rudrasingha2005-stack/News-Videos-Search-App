@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 1. Configuration
-GNEWS_API_KEY = "API_KEY_HERE"  # Replace with your actual GNews API key
+GNEWS_API_KEY = "API"  # Replace with your actual GNews API key
 
 LANG_MAP = {
     "English": ("en", "IN:en"),
